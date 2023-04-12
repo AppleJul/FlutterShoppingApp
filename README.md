@@ -1,5 +1,3 @@
-# 🍔😋 Fryo - Grocery Shopping  App template kit [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
 A Flutter UI template of a Grocery Shopping App I found on Uplabs.
 
 Design screens are on [Uplabs.](https://www.uplabs.com/posts/grocery-shopping-full-app) It's premium, purchase it if you want to use it commercially.
